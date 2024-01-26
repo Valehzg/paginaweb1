@@ -1,0 +1,1 @@
+Estoy realizando una pagina cheems, esta tendra sus fomas de aplicacion en la vida diaria( memes), es tiempo que me dieron fue de 60 min, de los cuales me gaste 40 min intentanto encontrar el erros de conexion de css con html, una vez encontrado el problema pude avanzar un poco mas y ya .
