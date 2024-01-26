@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(179, 179, 255);
+}
+
+header, div, h2 {
+    margin: 20px;
+}
+
+#imagen-container {
+    text-align: center;
+}
+
+#imagen-container img {
+    max-width: 50%;
+    height: auto;
+    margin-top: 10px;
+}
